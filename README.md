@@ -4,6 +4,10 @@
 
 This Cryptocurrency Tracker displays real-time updates by using an API from [coingecko](https://www.coingecko.com/en/api#explore-api).
 
+Check out a live demo [here!](https://heroku-cobalt.herokuapp.com/)
+
+Watch a video demo [here!](https://www.youtube.com/watch?v=9SVP3mIC9PQ&feature=youtu.be)
+
 ## How I built it
 
 The technologies used: React, Axios, Postman.
