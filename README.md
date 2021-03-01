@@ -10,7 +10,7 @@ Watch a video demo [here!](https://www.youtube.com/watch?v=9SVP3mIC9PQ&feature=y
 
 ## How I built it
 
-The technologies used: React, Axios, Postman.
+The technologies used: React, Axios, Postman. In order to display data on the front-end, I used React to seperate my logic into components. I also used Axios to complete fetch requests and Postman to test endpoints.
 
 ## Step 1 - Set Up
 
