@@ -10,7 +10,7 @@ The technologies used: React, Axios, Postman.
 
 ## Step 1 - Set Up
 
-The first thing I did was to set up React and Axios by installing the necessary packages. For good practice, I created a screens folder so if i wanted to build upon this tracker with multiple pages, I could have my routes defined there. I also created a components folder to store all my components in one place.
+The first thing I did was set up React and Axios by installing the necessary packages. For good practice, I created a screens folder so if i wanted to build upon this tracker with multiple pages, I could have my routes defined there. I also created a components folder to store all my components in one place.
 
 ## Step 2 - Finding an API
 
