@@ -2,7 +2,7 @@
 
 ## What it does
 
-This Cryptocurrency Tracker displays real-time updates by using an API from [coingecko](https://www.coingecko.com/en/api#explore-api).
+This Cryptocurrency Tracker tracks real-time updates by using an API from [coingecko](https://www.coingecko.com/en/api#explore-api).
 
 Check out a live demo [here!](https://heroku-cobalt.herokuapp.com/)
 
