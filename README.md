@@ -14,15 +14,15 @@ The technologies used: React, Axios, Postman. In order to display data on the fr
 
 ## Step 1 - Set Up
 
-The first thing I did was set up React and Axios by installing the necessary packages. For good practice, I created a screens folder so if i wanted to build upon this tracker with multiple pages, I could have my routes defined there. I also created a components folder to store all my components in one place.
+The first thing I did was set up React and Axios by installing the necessary packages. For good practice, I created a screens folder so if i wanted to build upon this tracker with multiple pages, I could have my routes defined there. I also created a components folder to store all my components in one place. After that, I used created a Heroku App and connected it to my github repository. This was crucial for deployment.
 
 ## Step 2 - Finding an API
 
-The second thing I did was research an API that could bring me data. Luckily, coingecko has an extremely strong Cryptocurrency API that I was able to use for free. It gave me data like price name, symbol, images and even percentage change every 24hours!
+The second thing I did was research an API that could bring me data. Luckily, coingecko has an extremely strong Cryptocurrency API that I was able to use for free. It gave me data like price name, symbol, images and even percentage change every 24 hours!
 
 ## Step 3 - Search Bar
 
-After finding my API and having my React application set up, I went to work on the structure of my app. I used my useEffect hook to populate the data which I then connected to a filtering search bar. I connected the useState hook with the search value so that users could search up a cryptocurrency they are interested in. After that I mapped through the filtered values, so that data can now be displayed.
+After finding my API and having my React application set up, I went to work on the structure of my app. I used the useEffect hook to populate the data which I then connected to a filtering search bar. I connected the useState hook with the search value so that users could search up a cryptocurrency they are interested in. After that I mapped through the filtered values, so that data can be displayed dynamically.
 
 ## Step 3 - Props
 
