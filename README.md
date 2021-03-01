@@ -16,20 +16,20 @@ The first thing I did was to set up React and Axios. After installing the necess
 
 The second thing I did was research an API that could bring me data. Luckily, coingecko has an extremely strong Cryptocurrency API that I was able to use for free. It gave me data like price name, symbol, images and even percentage change every 24hours!
 
-##Step 3 - Search Bar
+## Step 3 - Search Bar
 
 After finding my API and having my React application set up, I went to work on the structure of my app. I used my useEffect hook to populate the data which I then connected to a filtering search bar. I connected the useState hook with the search value so that users could search up a cryptocurrency they are interested in. After that I mapped through the filtered values, so that data can now be displayed.
 
-##Step 3 - Props
+## Step 3 - Props
 
 I passed down all my data into another component using props. This was the coin's component. Nothing much to explain here aside from the ternary operator which I used to dynamically display a negative(red) or positive(green) percentage based on change.
 
-##Step 4 - Animated Ticker
+## Step 4 - Animated Ticker
 
 I wanted to stand out from other applicants so I decided to put some time into making a cool horizontal ticker like other stock pages. So I created another component called Ticker.js and mapped through the elements just like I did with the coin component. I passed down data through props the same way to get all the information in one place. After that, I used CSS
 keyframes to translate it across the screen which it'll then infinitely loop.
 
-##Step 5- Styling
+## Step 5- Styling
 
 Lastly, I was able to style everything using flexbox and basic CSS. I used a google font to make the words look nicer, and I templated everything on the screen. It all came together, and I was pleased with the final product.
 
