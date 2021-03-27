@@ -1,4 +1,4 @@
-## **CobaltLend’s Amazing CryptoCurrency Tracker!**
+## **Henry’s Amazing CryptoCurrency Tracker!**
 
 ## What it does
 
